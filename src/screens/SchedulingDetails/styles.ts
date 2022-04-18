@@ -80,7 +80,7 @@ export const Price = styled.Text`
 
 
 
-export const Acessories = styled.View`
+export const Accessories = styled.View`
   width: 100%;
   flex-direction: row;
   flex-wrap: wrap;
